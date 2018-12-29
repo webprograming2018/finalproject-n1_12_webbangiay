@@ -1,0 +1,15 @@
+04-Dec-2018 08:28:38.061 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2018 08:28:38.108 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+04-Dec-2018 08:28:39.358 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
+04-Dec-2018 08:28:49.358 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+04-Dec-2018 08:28:49.420 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+04-Dec-2018 08:28:50.061 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
+04-Dec-2018 08:28:51.889 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+04-Dec-2018 08:28:51.889 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+04-Dec-2018 08:28:51.904 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@68ee7b3b')
+04-Dec-2018 08:33:07.061 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+04-Dec-2018 08:33:07.061 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+04-Dec-2018 08:33:07.077 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+04-Dec-2018 08:33:07.092 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+04-Dec-2018 08:33:07.155 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+04-Dec-2018 08:33:07.171 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext

@@ -1,0 +1,78 @@
+28-Nov-2018 19:38:55.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.11
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 11 2018 19:47:23 UTC
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.11.0
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_161\jre
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_161-b12
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\apache-tomcat-9.0.11
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         F:\apache-tomcat-9.0.11
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\apache-tomcat-9.0.11\conf\logging.properties
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-4RNQ7FA
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\apache-tomcat-9.0.11
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=F:\apache-tomcat-9.0.11
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\apache-tomcat-9.0.11\temp
+28-Nov-2018 19:38:55.533 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.8.0_161\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\TDM-GCC-64\bin;C:\Program Files\CMake\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Thuy Tran\AppData\Local\Microsoft\WindowsApps;;.]
+28-Nov-2018 19:38:58.275 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Nov-2018 19:38:58.947 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Nov-2018 19:38:59.088 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+28-Nov-2018 19:38:59.104 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Nov-2018 19:38:59.104 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 6696 ms
+28-Nov-2018 19:38:59.307 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Nov-2018 19:38:59.307 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.11
+28-Nov-2018 19:38:59.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\demo1.xml]
+28-Nov-2018 19:38:59.557 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/demo1] in deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\demo1.xml] has been ignored
+28-Nov-2018 19:39:07.538 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2018 19:39:07.882 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+28-Nov-2018 19:39:08.288 INFO [main] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Wed Nov 28 19:39:08 ICT 2018]; root of context hierarchy
+28-Nov-2018 19:39:08.476 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+28-Nov-2018 19:39:09.132 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1250 ms
+28-Nov-2018 19:39:09.241 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+28-Nov-2018 19:39:09.257 INFO [main] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Nov 28 19:39:09 ICT 2018]; parent: Root WebApplicationContext
+28-Nov-2018 19:39:09.257 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+28-Nov-2018 19:39:09.663 INFO [main] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index.htm] onto handler 'indexController'
+28-Nov-2018 19:39:09.882 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 641 ms
+28-Nov-2018 19:39:09.944 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\demo1.xml] has finished in [10,606] ms
+28-Nov-2018 19:39:09.944 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\SHOESWEB.xml]
+28-Nov-2018 19:39:09.960 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SHOESWEB] in deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\SHOESWEB.xml] has been ignored
+28-Nov-2018 19:39:14.736 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2018 19:39:14.752 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\SHOESWEB.xml] has finished in [4,808] ms
+28-Nov-2018 19:39:14.752 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\test.xml]
+28-Nov-2018 19:39:14.752 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/test] in deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\test.xml] has been ignored
+28-Nov-2018 19:39:15.189 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\test.xml] has finished in [437] ms
+28-Nov-2018 19:39:15.189 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\WebApplication1.xml]
+28-Nov-2018 19:39:15.330 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+28-Nov-2018 19:39:19.733 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2018 19:39:19.827 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+28-Nov-2018 19:39:20.108 INFO [main] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Wed Nov 28 19:39:20 ICT 2018]; root of context hierarchy
+28-Nov-2018 19:39:20.233 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+28-Nov-2018 19:39:20.420 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 593 ms
+28-Nov-2018 19:39:20.467 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+28-Nov-2018 19:39:20.483 INFO [main] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Wed Nov 28 19:39:20 ICT 2018]; parent: Root WebApplicationContext
+28-Nov-2018 19:39:20.483 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+28-Nov-2018 19:39:20.795 INFO [main] org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler Mapped URL path [/index.htm] onto handler 'indexController'
+28-Nov-2018 19:39:20.936 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 469 ms
+28-Nov-2018 19:39:20.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\apache-tomcat-9.0.11\conf\Catalina\localhost\WebApplication1.xml] has finished in [5,747] ms
+28-Nov-2018 19:39:20.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.11\webapps\docs]
+28-Nov-2018 19:39:21.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.11\webapps\docs] has finished in [78] ms
+28-Nov-2018 19:39:21.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.11\webapps\examples]
+28-Nov-2018 19:39:22.436 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.11\webapps\examples] has finished in [1,422] ms
+28-Nov-2018 19:39:22.436 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.11\webapps\host-manager]
+28-Nov-2018 19:39:22.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.11\webapps\host-manager] has finished in [94] ms
+28-Nov-2018 19:39:22.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.11\webapps\manager]
+28-Nov-2018 19:39:22.608 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.11\webapps\manager] has finished in [78] ms
+28-Nov-2018 19:39:22.608 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.11\webapps\ROOT]
+28-Nov-2018 19:39:22.717 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.11\webapps\ROOT] has finished in [109] ms
+28-Nov-2018 19:39:22.717 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Nov-2018 19:39:22.733 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+28-Nov-2018 19:39:22.748 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 23640 ms
+28-Nov-2018 19:39:28.214 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/SHOESWEB] has started
+28-Nov-2018 19:39:29.831 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2018 19:39:29.847 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/SHOESWEB] is completed
+28-Nov-2018 19:39:32.722 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.webresources.Cache.backgroundProcess The background cache eviction process was unable to free [10] percent of the cache for Context [/SHOESWEB] - consider increasing the maximum size of the cache. After eviction approximately [9,458] KB of data remained in the cache.
